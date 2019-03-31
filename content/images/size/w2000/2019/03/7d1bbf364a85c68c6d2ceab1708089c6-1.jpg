@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Code / Tech / Fun</title>
+    <title>loeffler.coffee</title>
     <meta name="HandheldFriendly" content="True" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" type="text/css" href="/assets/built/screen.css?v=7fed6a4942" />
@@ -15,7 +15,7 @@
         <header class="site-header outer no-image">
             <div class="inner">
                 <nav class="site-nav-center">
-                        <a class="site-nav-logo" href="http://localhost:2368"><img src="https://static.ghost.org/v1.0.0/images/ghost-logo.svg" alt="Code / Tech / Fun" /></a>
+                        <a class="site-nav-logo" href="http://localhost:2368"><img src="https://static.ghost.org/v1.0.0/images/ghost-logo.svg" alt="loeffler.coffee" /></a>
                 </nav>
             </div>
         </header>
