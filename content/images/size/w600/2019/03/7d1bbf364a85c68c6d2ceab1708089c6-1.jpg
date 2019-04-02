@@ -15,7 +15,7 @@
         <header class="site-header outer no-image">
             <div class="inner">
                 <nav class="site-nav-center">
-                        <a class="site-nav-logo" href="http://localhost:2368"><img src="https://static.ghost.org/v1.0.0/images/ghost-logo.svg" alt="loeffler.coffee" /></a>
+                        <a class="site-nav-logo" href="http://localhost:2368">loeffler.coffee</a>
                 </nav>
             </div>
         </header>
@@ -42,11 +42,11 @@
         <a class="post-card-content-link" href="/test-post/">
 
             <header class="post-card-header">
-                <h2 class="post-card-title">Test Post</h2>
+                <h2 class="post-card-title">How to host ghost on github</h2>
             </header>
 
             <section class="post-card-excerpt">
-                <p>test</p>
+                <p></p>
             </section>
 
         </a>
